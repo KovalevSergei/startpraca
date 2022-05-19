@@ -7,6 +7,6 @@ function pow(x, n) {
   }
 
   return result;
-}
+}>
 
 alert(pow(2, 3)); // 8
